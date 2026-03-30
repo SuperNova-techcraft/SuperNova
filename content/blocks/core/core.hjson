@@ -1,0 +1,11 @@
+type: CoreBlock
+name: Core: Core
+description: yes
+isFirstTier: true
+size: 1
+squareSprite: false
+alwaysUnlocked: true
+health: 10000000
+itemCapacity: 450000
+unitCapModifier: 8
+category: effect
