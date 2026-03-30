@@ -1,6 +1,5 @@
-captureWave: 10
-planet: asthosus
+captureWave: 0
+planet: supernova
 sector: 0
-research: 11k-01-core-essence
 difficulty: 1
 alwaysUnlocked: true
