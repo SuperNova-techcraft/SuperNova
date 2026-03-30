@@ -1,4 +1,4 @@
-```localizedName: supernova
+localizedName: supernova
 description: this is a nova but just super
 alwaysUnlocked: true
 mesh: [
@@ -116,4 +116,4 @@ prebuildBase: false
 defaultCore: core-frost
 parent: sun
 solarSystem: sun
-launchCandidates: []```
+launchCandidates: []
