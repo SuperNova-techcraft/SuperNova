@@ -1,0 +1,8 @@
+name : "supernova"
+displayName : "whut za shield"
+author: "SuperNova(yes)"
+description: "oui(je ne suis pas farnçais)"
+version: "0.0"
+minGameVersion : "155.4"
+dependencies: []
+hidden: false
