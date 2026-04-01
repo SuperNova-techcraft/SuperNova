@@ -14,5 +14,5 @@ research: {
   planet: supernova
   root: false
   name: supernova
-  requiresUnlock: false
 }
+research: Core
