@@ -5,11 +5,11 @@ size: 2
 category: production
 alwaysUnlocked: true
 drillTime: 1
-output: Copper
-attribute: Copper
+hasPower: false
 squareSprite: false
 health: 14500000
 itemCapacity: 4500000
+tier: 1
 research: {
   planet: supernova
   root: false
