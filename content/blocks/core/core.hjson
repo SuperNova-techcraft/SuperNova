@@ -1,5 +1,5 @@
 type: CoreBlock
-name: core
+name: Core : yess
 description: Core of the base. Armored and stores a medium amount of items.
 isFirstTier: true
 size: 1
