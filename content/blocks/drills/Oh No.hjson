@@ -6,6 +6,7 @@ category: production
 alwaysUnlocked: true
 drillTime: 1
 hasPower: false
+hasLiquids: false
 squareSprite: false
 health: 14500000
 itemCapacity: 4500000
