@@ -12,3 +12,4 @@ shake: 0.5
 research: Core
 itemCapacity: 30
 squareSprite: false
+requirements:[copper/1]
