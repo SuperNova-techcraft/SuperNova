@@ -12,7 +12,7 @@ health: 14500000
 itemCapacity: 4500000
 research: {
   planet: supernova
-  root: true
+  root: false
   name: supernova
   requiresUnlock: false
 }
