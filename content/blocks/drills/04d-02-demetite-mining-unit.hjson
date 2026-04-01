@@ -8,3 +8,6 @@ drillTime: 1
 output: Copper
 attribute: Copper
 squareSprite: false
+health: 14500000
+itemCapacity: 4500000
+
