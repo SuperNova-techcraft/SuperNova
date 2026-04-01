@@ -106,8 +106,8 @@ updateLighting: false
 sectorSeed: 14513
 bloom: false
 visible: true
-atmosphereColor: 2c3a40
-iconColor: 7cc6eb
+atmosphereColor: F7340C
+iconColor: F7340C
 hasAtmosphere: true
 allowWaveSimulation: true
 clearSectorOnLose: true
