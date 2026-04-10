@@ -1,1 +1,11 @@
-
+type: Duct
+name: Duct
+description: Et Je Suis Pure
+category: distribution
+alwaysUnlocked: true
+research: Core
+speed: 0.0001
+health: 45000
+requirements: [
+  copper/1
+]
