@@ -1,1 +1,8 @@
-
+type: Floor
+name: Floor
+variants: 1
+captureWave: 9
+planet: supernova
+sector: 0
+difficulty: 1
+alwaysUnlocked: true
