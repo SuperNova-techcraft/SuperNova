@@ -5,11 +5,11 @@ size: 2
 category: production
 hasLiquids: false
 hardnessDrillMultiplier: 25
-drillTime: 0.001
+drillTime: 0.00001
 hasPower: false
 tier: 1
 shake: 0.5
 research: Core
-itemCapacity: 30
+itemCapacity: 300000000000000
 squareSprite: false
 requirements:[copper/1]
