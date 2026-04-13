@@ -12,7 +12,7 @@ requirements: [
   copper/20
 ]
 consumes: {
-  itemFlammable: {}
+  copper/1
 }
 powerProduction: 1000
 itemDuration: 120
