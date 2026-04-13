@@ -18,3 +18,4 @@ powerProduction: 1000
 itemDuration: 120
 drawer: {
   type: DrawMulti
+}
