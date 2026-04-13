@@ -1,1 +1,20 @@
 
+type: ConsumeGenerator
+name: Nuclear Reactor
+description: just vanilla free power
+size: 2
+category: power
+research: {
+  parent: Core
+}
+squareSprite: false
+requirements: [
+  copper/20
+]
+consumes: {
+  itemFlammable: {}
+}
+powerProduction: 1000
+itemDuration: 120
+drawer: {
+  type: DrawMulti
