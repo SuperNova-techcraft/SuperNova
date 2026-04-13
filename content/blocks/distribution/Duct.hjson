@@ -3,7 +3,7 @@ name: Duct
 description: Et Je Suis Pure
 category: distribution
 alwaysUnlocked: true
-research: OH NOO HOHOHOHO!
+research: Core
 speed: 0.000001
 health: 45000
 requirements: [
