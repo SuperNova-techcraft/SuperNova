@@ -88,7 +88,7 @@ generator: {
   radMin: 220
   radMax: 600
 }
-orbitRadius: 200
+orbitRadius: 100
 sectorSize: 2
 allowLaunchSchematics: false
 allowLaunchToNumbered: false
@@ -106,7 +106,7 @@ updateLighting: false
 sectorSeed: 14513
 bloom: false
 visible: true
-atmosphereColor: 4C5785
+atmosphereColor: f1d25c
 iconColor: 7cc6eb
 hasAtmosphere: true
 allowWaveSimulation: true
