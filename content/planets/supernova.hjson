@@ -21,8 +21,8 @@ mesh: [
     divisions: 6
     seed: 101
     radius: 1.2441
-    color1: ff2525
-    color2: 2596ff
+    color1: ff63a5
+    color2: 9bcfff
     octaves: 4.2
     persistence: 0.7
   }
@@ -33,8 +33,8 @@ mesh: [
     divisions: 7
     seed: 23
     radius: 1.3
-    color1: ff2525
-    color2: 2596ff
+    color1: ff63a5
+    color2: 9bcfff
     octaves: 3.8
     persistence: 0.4
   }
@@ -45,8 +45,8 @@ mesh: [
     divisions: 5
     seed: 180
     radius: 1.26
-    color1: ff2525
-    color2: 2596ff
+    color1: ff63a5
+    color2: 9bcfff
     octaves: 5
     persistence: 0.3
   }
