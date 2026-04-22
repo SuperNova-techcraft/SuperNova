@@ -1,7 +1,7 @@
 
 type: ConsumeGenerator
 name: Nuclear Reactor
-description: just vanilla free power
+description:whut za shield cool font
 size: 2
 category: power
 research: {
@@ -9,7 +9,7 @@ research: {
 }
 squareSprite: false
 requirements: [
-  copper/20
+  copper/100
 ]
 consumes: {
     items:[copper/1]
