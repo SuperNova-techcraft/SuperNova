@@ -1,0 +1,15 @@
+type: Drill
+name: drill
+description: Je suis très poullond
+size: 2
+category: production
+hasLiquids: false
+hardnessDrillMultiplier: 25
+drillTime: 6
+hasPower: false
+tier: 1
+shake: 0.5
+research: Core
+itemCapacity: 30
+squareSprite: false
+requirements:[copper/1]
