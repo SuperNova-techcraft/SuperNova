@@ -19,7 +19,7 @@ stepSoundVolume: 0.7
 drownTimeMultiplier: 2
 rotateSpeed: 2.7
 hovering: true
-name: 17q-03-zeta
+name: 17q-03-iota
 description: Defends the Omphalos core. Builds structures and mines ores. 
 health: 310
 armor: 3
