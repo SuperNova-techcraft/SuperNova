@@ -2,7 +2,7 @@ type: CoreBlock
 name: Core: Core
 description: Core of the base. Armored and stores a medium amount of items.
 isFirstTier: true
-size: 1
+size: 4
 squareSprite: false
 alwaysUnlocked: true
 health: 14500000
