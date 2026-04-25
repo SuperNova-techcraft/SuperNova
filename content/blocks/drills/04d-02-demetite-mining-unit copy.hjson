@@ -11,8 +11,11 @@ tier: 1
 consumes: {
     power: 100
 }
+requirements: [
+  copper/50
+]
 shake: 0.5
-research: Nuclear Reactor
+research: Core
 itemCapacity: 300000000000000
 squareSprite: false
 requirements:[copper/1]
