@@ -1,21 +1,18 @@
 type: Drill
-name: OH NOO HOHOHOHO!
+name: grill
 description: Je suis très poullond
 size: 2
 category: production
 hasLiquids: false
 hardnessDrillMultiplier: 25
-drillTime: 0.00001
+drillTime: 16
 hasPower: false
-tier: 1
+tier: 3
 consumes: {
     power: 100
 }
-requirements: [
-  copper/50
-]
 shake: 0.5
 research: Core
-itemCapacity: 300000000000000
+itemCapacity: 30
 squareSprite: false
 requirements:[copper/1]
