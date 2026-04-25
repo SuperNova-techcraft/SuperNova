@@ -7,7 +7,7 @@ squareSprite: false
 alwaysUnlocked: true
 health: 14500000
 itemCapacity: 4500000
-unitType: Iota
+unitType: Zeta
 unitCapModifier: 8
 category: effect
 research: {
