@@ -8,8 +8,11 @@ hardnessDrillMultiplier: 25
 drillTime: 0.00001
 hasPower: false
 tier: 1
+consumes: {
+    power: 100
+}
 shake: 0.5
-research: Core
+research: Nuclear Reactor
 itemCapacity: 300000000000000
 squareSprite: false
 requirements:[copper/1]
