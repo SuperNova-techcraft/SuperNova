@@ -7,8 +7,11 @@ hasLiquids: false
 hardnessDrillMultiplier: 25
 drillTime: 6
 hasPower: false
+outputsPower: true
 tier: 1
-
+consumes: {
+    power: 5
+}
 shake: 0.5
 research: Core
 itemCapacity: 30

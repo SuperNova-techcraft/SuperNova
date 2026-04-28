@@ -1,0 +1,18 @@
+
+type: ConsumeGenerator
+name: Solar Panel
+description:je ne suis pas puollond
+size: 1
+category: power
+research: {
+  parent: Core
+}
+squareSprite: false
+requirements: [
+  copper/10
+]
+powerProduction: 20
+itemDuration: 120
+drawer: {
+  type: DrawMulti
+}
