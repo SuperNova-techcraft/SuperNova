@@ -1,6 +1,6 @@
 
 type: ConsumeGenerator
-name: Solar Panel
+name: solarpanel
 description:je ne suis pas puollond
 size: 1
 category: power
