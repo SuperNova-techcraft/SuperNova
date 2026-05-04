@@ -4,7 +4,7 @@ alwaysUnlocked: true
 mesh: [
   {
     //ferrinite
-    type: NoiseMesh
+    type: HexMesh
     planet: SuperNova
     divisions: 5
     radius: 1.22
@@ -16,7 +16,7 @@ mesh: [
   }
   {
     //sand
-    type: NoiseMesh
+    type: HexMesh
     planet: SuperNova
     divisions: 6
     seed: 101
@@ -40,7 +40,7 @@ mesh: [
   }
     {
     //sand
-    type: NoiseMesh
+    type: HexMesh
     planet: SuperNova
     divisions: 5
     seed: 180
