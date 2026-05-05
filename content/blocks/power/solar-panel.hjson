@@ -1,5 +1,5 @@
 
-type: ConsumeGenerator
+type: SolarGenerator
 name: solarpanel
 description:je ne suis pas puollond
 size: 2
