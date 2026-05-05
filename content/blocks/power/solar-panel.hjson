@@ -2,7 +2,7 @@
 type: ConsumeGenerator
 name: solarpanel
 description:je ne suis pas puollond
-size: 1
+size: 2
 category: power
 research: {
   parent: Core
