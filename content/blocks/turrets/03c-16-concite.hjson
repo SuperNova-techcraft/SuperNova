@@ -7,6 +7,7 @@ reload: 6
 heatColor: cd8d4a
 coolantMultiplier: 1
 recoils: 2
+research: grill
 drawer: {
   type: DrawTurret
   basePrefix: spiky-
