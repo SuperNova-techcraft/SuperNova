@@ -51,54 +51,7 @@ shoot: {
 range: 270
 shootSound: shoot-big-artillery
 ammoTypes: {
-  01a-09-item-obsidian: {
-    reloadMultiplier: 0.66666666666666
-    hitEffect: plasticExplosion
-    despawnHit: true
-    type: BasicBulletType
-    speed: 3
-    lifetime: 90
-    damage: 8
-    pierce: true
-    pierceCap: 1
-    keepVelocity: false
-    width: 8
-    height: 8
-    sprite: large-orb
-    trailChance: -1
-    trailColor: 2e293a
-    backColor: 2e293a
-    frontColor: 594e6b
-    trailWidth: 2.5
-    trailLength: 22
-    lightRadius: 40
-    lightOpacity: 0.7
-    lightColor: 2e293a
-    spin: 4
-    layer: 99
-    ammoMultiplier: 2
-    fragRandomSpread: 0
-    fragSpread: 0
-    fragOnHit: true
-    fragOnAbsorb: false
-    fragBullets: 2
-    fragLifeMin: 1
-    fragLifeMax: 1
-    fragVelocityMin: 0
-    fragVelocityMax: 0
-    fragBullet: {
-      type: ExplosionBulletType
-      killShooter: false
-      splashDamageRadius: 16
-      splashDamage: 8
-      despawnSound: explosion
-      despawnHit: true
-      hitEffect: hitBulletColor
-    	collidesGround: true
-      collidesAir: true
-    }
-  }
-  01a-08-item-cretite: {
+ coal: {
     hitEffect: plasticExplosion
     despawnHit: true
     type: BasicBulletType
@@ -146,7 +99,7 @@ ammoTypes: {
       collidesAir: true
     }
   }
-  01a-12-item-crosium: {
+ thorium: {
     hitEffect: plasticExplosion
     despawnHit: true
     type: BasicBulletType
@@ -194,7 +147,7 @@ ammoTypes: {
       collidesAir: true
     }
   }
-  01a-13-item-barite-webbing: {
+  lead: {
     hitEffect: plasticExplosion
     despawnHit: true
     type: BasicBulletType
